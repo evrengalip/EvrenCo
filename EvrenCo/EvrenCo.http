@@ -1,0 +1,6 @@
+@EvrenCo_HostAddress = http://localhost:5126
+
+GET {{EvrenCo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
